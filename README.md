@@ -192,3 +192,13 @@ The output in /discussion/time_interval/tables_th/*
 corresponds to Table 12
 The output in /discussion/effort_aware/effort_tables/*
 corresponds to Table 13
+
+
+## Additional results
+
+./additinal_results
+This result includes additional results.
+
+./additional_results/resampling_comparisons/
+This directory includes the results of all comparisons across the resampling
+approaches (i.e., SMOTUNED, the under sampling, and MAHAKIL).
